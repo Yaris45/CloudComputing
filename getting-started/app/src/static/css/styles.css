@@ -36,8 +36,16 @@ body {
 
 button:focus {
     border: 1px solid #333;
+	padding: 10px 20px;
+	border-radius: 50px;
+	color: #333;
+	background: #fff;
+	margin-bottom: 50px;
+	box-shadow: 0 3px 20px 0 #0000003b;
 }
 h1 {
 	text-align: center;
-	color: red; 
+	color: red;
+	margin-bottom: 30px; 
+ 
 }
